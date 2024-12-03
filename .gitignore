@@ -1,0 +1,7 @@
+NumCpp/
+g2p/
+build/
+__pycache__/
+*.py
+*.json
+*.bin
